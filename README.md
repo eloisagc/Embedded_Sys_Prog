@@ -1,2 +1,3 @@
-# Embedded_Sys_Prog
-Embedded Systems Programming (Undergraduate Class)
+# Programación de Sistemas Empotrados
+
+Archivos para la clase
