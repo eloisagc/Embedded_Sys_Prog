@@ -1,3 +1,3 @@
 # Programación de Sistemas Empotrados
 
-Archivos que seránutilizados para la clase
+Archivos que serán utilizados para la clase
